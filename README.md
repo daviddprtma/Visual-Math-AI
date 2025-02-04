@@ -23,6 +23,10 @@ Visual Math AI  is an AI-powered math solver that allows users to draw mathemati
 - [Gemini AI](https://aistudio.google.com)
 - [Python](https://www.python.org/)
 
+## Features
+- Interactive canvas: Draw mathematical expressions directly to the canvas.
+- Gemini AI Powered Solver: Using Gemini 1.5 Flash to solve the mathematical problem.
+- Real Time Feedback: Get the real time feedback after you write on the canvas and it will get the display result after you draw.
 
 <h3>Prerequisites</h3>
 

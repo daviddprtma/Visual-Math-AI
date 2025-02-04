@@ -28,6 +28,18 @@ Visual Math AI  is an AI-powered math solver that allows users to draw mathemati
 - Gemini AI Powered Solver: Using Gemini 1.5 Flash to solve the mathematical problem.
 - Real Time Feedback: Get the real time feedback after you write on the canvas and it will get the display result after you draw.
 
+## Project Structure
+## Frontend
+- src/main.tsx: Main program for the React application.
+- src/screens/home/index.tsx: Main screen where the canvas and solver logic are implemented.
+- src/components/ui: Contains UI components like CommandBox and CommandBoxRun.
+  
+## Bckend
+- main.py: Main point for the FastAPI application.
+- apps/calculator/route.py: Contains the API route for processing images.
+- apps/calculator/utils.py: Utility functions for analyzing images using AI.
+- schema.py: The Pydantic models for request validation.
+
 <h3>Prerequisites</h3>
 
 - [NodeJS v14 or higher](https://nodejs.org/en/download)

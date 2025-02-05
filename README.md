@@ -12,7 +12,7 @@ An AI handwriting math solver with an interactive canvas
 </p>
 </div>
 
-## About The Project
+## Why Visual Math AI 🖌️✅
 
 Visual Math AI  is an AI-powered math solver that allows users to draw mathematical expressions on a canvas and get instant solutions within the help of Gemini AI and integrates Gemini for solving expressions, which are then converted to LaTeX for make a draw become knownable to recognize so stackie can draw the mathematical problem & get to solve the problem just a second.
 

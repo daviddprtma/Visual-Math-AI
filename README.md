@@ -1,15 +1,21 @@
-<br/>
 <div align="center">
-<h3 align="center">Visual Math AI 🖌️</h3>
+<h3 align="center">3rd Winner - Visual Math AI 🖌️</h3>
 <p align="center">
 An AI handwriting math solver with an interactive canvas
-
-
-  
-
-
 </p>
 </div>
+
+# Winner 3rd place Hackathon of Visual Math AI 🎉🏆
+
+You can see the 3rd winner Hackathon of this project in below⬇️
+
+<br>
+
+![](https://github.com/daviddprtma/Visual-Math-AI/blob/2a8beab219d33970b5fe4dd2c7806f09b16418e8/stackup%20march%20hackathon%20winner.png)
+
+<br>
+
+![](https://github.com/daviddprtma/Visual-Math-AI/blob/96e52419ba1ec40fe99ada33021819bbc60bbba6/email%20stackup%20march%202025%20hackathon%20winner.png)
 
 ## Why Visual Math AI 🖌️✅
 
